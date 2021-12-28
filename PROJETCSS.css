@@ -1,0 +1,45 @@
+article
+{font-style: unset;}
+body
+{background-image: url(thumb.jpg);}
+body
+{color: blanchedalmond;
+margin: 0px;
+padding: 0px;}
+.Menu1{
+    background-color: black;
+    height: 80px;
+    margin: 10px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+ul li a{
+    color: blanchedalmond;
+    letter-spacing: 0.5rem;
+}
+ul li a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.Menu1 li{
+    float: left;
+    padding: 35px;
+
+}
+.Menu1 li a{
+    text-decoration: none;
+}
+h1{
+    border: 2px solid black;
+}
+.place{
+    text-align: center;
+}
+article{
+    padding: 10px 15px;
+}
+.place1{
+    text-align: center;
+}
