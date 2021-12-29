@@ -43,3 +43,31 @@ article{
 .place1{
     text-align: center;
 }
+@media only screen and (max-device-width: 980px){
+    .Menu1{
+        background-color: black;
+        height: 80px;
+        margin: 10px;
+    }
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+    }
+    ul li a{
+        color: blanchedalmond;
+        letter-spacing: 0.5rem;
+    }
+    ul li a:hover{
+        color: blue;
+        text-decoration: underline;
+    }
+    .Menu1 li{
+        float: left;
+        padding: 00px;
+    
+    }
+    .Menu1 li a{
+        text-decoration: none;
+    }
+    }
+}
