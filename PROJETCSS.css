@@ -55,7 +55,7 @@ article{
     }
     ul li a{
         color: blanchedalmond;
-        letter-spacing: 20rem;
+        letter-spacing: 0.9rem;
     }
     ul li a:hover{
         color: blue;
